@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tts.main.factory.DepartmentFactoryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-19T17:37:34" hostname="MSI" time="0.016">
+  <properties/>
+  <testcase name="test()" classname="com.tts.main.factory.DepartmentFactoryTest" time="0.016"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
